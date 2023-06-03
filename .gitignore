@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+.next
+.env
+!apps/www/.env
+.env.test
+.env.local
+.env.production
+.environment
